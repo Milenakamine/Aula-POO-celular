@@ -1,0 +1,13 @@
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Aula POO celular\Aula-POO-celular\obj\Debug\netcoreapp3.1\Aula-POO-celular.csprojAssemblyReference.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Aula POO celular\Aula-POO-celular\obj\Debug\netcoreapp3.1\Aula-POO-celular.csproj.CoreCompileInputs.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Aula POO celular\Aula-POO-celular\obj\Debug\netcoreapp3.1\Aula-POO-celular.AssemblyInfoInputs.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Aula POO celular\Aula-POO-celular\obj\Debug\netcoreapp3.1\Aula-POO-celular.AssemblyInfo.cs
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Aula POO celular\Aula-POO-celular\bin\Debug\netcoreapp3.1\Aula-POO-celular.exe
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Aula POO celular\Aula-POO-celular\bin\Debug\netcoreapp3.1\Aula-POO-celular.deps.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Aula POO celular\Aula-POO-celular\bin\Debug\netcoreapp3.1\Aula-POO-celular.runtimeconfig.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Aula POO celular\Aula-POO-celular\bin\Debug\netcoreapp3.1\Aula-POO-celular.runtimeconfig.dev.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Aula POO celular\Aula-POO-celular\bin\Debug\netcoreapp3.1\Aula-POO-celular.dll
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Aula POO celular\Aula-POO-celular\bin\Debug\netcoreapp3.1\Aula-POO-celular.pdb
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Aula POO celular\Aula-POO-celular\obj\Debug\netcoreapp3.1\Aula-POO-celular.dll
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Aula POO celular\Aula-POO-celular\obj\Debug\netcoreapp3.1\Aula-POO-celular.pdb
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Aula POO celular\Aula-POO-celular\obj\Debug\netcoreapp3.1\Aula-POO-celular.genruntimeconfig.cache
